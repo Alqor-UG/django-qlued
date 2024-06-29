@@ -24,7 +24,7 @@ sqooler = "^0.9.0"
 pylint = "^3.0.3"
 mypy = "^1.7.0"
 pylint-django = "^2.5.5"
-django-stubs = {extras = ["compatible-mypy"], version = "^4.2.7"}
+django-stubs = {extras = ["compatible-mypy"], version = ">=4.2.7,<6.0.0"}
 django-csp = "^3.7"
 black = "^24.1.1"
 icecream = "^2.1.3"
